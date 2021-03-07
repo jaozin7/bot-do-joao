@@ -3,7 +3,7 @@ const help = (prefix) => {
 
 
    「 *🥀⏤͟͟͞͞𝐁𝐎𝐓 𝐃𝐎 𝐉𝐀𝐎𝐙𝐈𝐍🥀* 」
-  ━━━━━━━°࿊•°:🌙 - 🌙:°•°━━━━━━━
+  
 
   ▷ *informações*
  ▷ Prefix: 「  ${prefix}  」
